@@ -16,7 +16,7 @@
 <br>
 <samp>
 <p align="center">
-Estou atualmente estou estudando  <a href="https://pt-br.reactjs.org/">React</a> / <a href="https://reactnative.dev/">React Native</a> e <a href="">JavaScript</a>.
+Estou atualmente estudando  <a href="https://pt-br.reactjs.org/">React</a> / <a href="https://reactnative.dev/">React Native</a> e <a href="">JavaScript</a>.
 <br>
 Atualmente trabalho em <a href="https://stefanini.com/pt-br">Stefanini Group</a>.
 <br>
@@ -34,8 +34,6 @@ Esse foi o primeiro site que fiz focado em um dos games que mais curto <a href="
 <a href="https://www.linkedin.com/in/gabriel-monteiro-rocha/" ><img src="https://img.icons8.com/ios/100/4a90e2/linkedin-circled--v1.png" width="40"/><a href="https://api.whatsapp.com/send?phone=5511993337206" ><img src="https://img.icons8.com/ios/100/4a90e2/whatsapp--v1.png"width="40"/></a>
 </div>
 <br>
-<br>
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogabrielmonteiro&layout=compact&theme=algolia&show_icons=true"/>
 </div>
