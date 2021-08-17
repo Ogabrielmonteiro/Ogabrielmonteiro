@@ -16,7 +16,7 @@
 <br>
 <samp>
 <p align="center">
-Estou atualmente estudando  <a href="https://pt-br.reactjs.org/">React</a> / <a href="https://reactnative.dev/">React Native</a> e <a href="">JavaScript</a>.
+Estou atualmente estudando  <a href="https://pt-br.reactjs.org/">React</a>
 <br>
 Atualmente trabalho em <a href="https://stefanini.com/pt-br">Stefanini Group</a>.
 <br>
